@@ -1,3 +1,4 @@
+console.log("hgjhjhg");
 const img = document.getElementById('img');
 const result = document.getElementById('result');
 const accuracy = document.getElementById('accuracy');
